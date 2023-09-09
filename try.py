@@ -25,7 +25,7 @@ def main():
     # Open the Google Sheet using its name
     sheet = client.open("try").worksheet("Sheet1")
 
-
+    #hi
 
 
     sheet.clear()
